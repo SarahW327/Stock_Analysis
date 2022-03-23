@@ -18,4 +18,8 @@ In the photo below, it shows the results of the year 2018. You can see most stoc
 
 ## Summary
 ### Advantages/Disadvantages
+Some advantages of refactoring code is you can hold more data than before and make it faster than before using a for loop and make your code more efficient by taking few steps, using less memory or improving the logic for the code for future users. 
+A disadvantage is it might show back anything different.
 ### Pros/Cons
+A pro for this refactoring this code was it made it clean and easier for future users to read and understand what is going on.
+A con for this refactoring was I did not observe an changes in the time the code. I may have seen a difference if I had more data but I only have a dozen stocks, so there was very little difference.
